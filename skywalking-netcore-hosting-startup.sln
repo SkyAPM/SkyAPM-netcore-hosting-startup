@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "manifest", "manifest", "{ED2F2105-34FD-4E77-A9C0-F3AAF1A48BB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution items", "solution items", "{344A7AA5-FF07-4B93-A137-C7D2A40A462B}"
+ProjectSection(SolutionItems) = preProject
+	NuGet.config = NuGet.config
+EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyWalking.Runtime.Store", "manifest\SkyWalking.Runtime.Store.csproj", "{37FC4717-B2E4-4D2B-B00B-3E3CFF2013B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37FC4717-B2E4-4D2B-B00B-3E3CFF2013B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FC4717-B2E4-4D2B-B00B-3E3CFF2013B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FC4717-B2E4-4D2B-B00B-3E3CFF2013B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FC4717-B2E4-4D2B-B00B-3E3CFF2013B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37FC4717-B2E4-4D2B-B00B-3E3CFF2013B4} = {ED2F2105-34FD-4E77-A9C0-F3AAF1A48BB4}
+	EndGlobalSection
+EndGlobal
