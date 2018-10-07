@@ -6,7 +6,7 @@
 
     <ItemGroup>
       <PackageReference Include="Grpc.Core" Version="1.15.0" />
-      <PackageReference Include="SkyWalking.Agent.AspNetCore" Version="0.6.0-preview-55501774" />
+      <PackageReference Include="SkyWalking.Agent.AspNetCore" Version="0.6.0-preview-55677571" />
     </ItemGroup>
 
 </Project>
